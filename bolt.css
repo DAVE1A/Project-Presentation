@@ -1208,3 +1208,17 @@ hr {
   align-items: center;
   margin-bottom: 10px;
 }
+
+.heavens:hover {
+  text-decoration: underline !important;
+}
+
+.friend{
+  padding-bottom: 15px !important;
+  border-bottom: 3px solid rgb(75, 115, 226) !important; 
+}
+
+.enemy{
+  width: 300px;
+  padding: 0px 15px !important;
+}
